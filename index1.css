@@ -1,0 +1,147 @@
+.ParentMobile{
+    display: grid;         
+}
+
+.MobileTwitterLg{
+    width: 400px;
+}
+.TwitterBird{
+    width: 45px;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.MobileFirstHeading{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-stretch: ultra-expanded;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.SecondHeading{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-stretch: ultra-expanded;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.Button1{
+        
+    line-height: 2.3;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 40px;  
+    margin-top: 15px;
+    width: 300px;  
+    border-width: 1px;  
+    border-color: lightgray; 
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: grey;
+    background-image: url("googleg.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 50px;
+}
+.Button1:hover{
+cursor: pointer;
+background-color: rgb(236, 250, 255);
+}
+.Button2{
+    line-height: 2.3;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 40px;  
+    width: 300px;  
+    border-width: 1px;  
+    border-color: lightgray; 
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    background-image: url("apple.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position: 60px;
+    margin-top: 10px;
+}
+.Button2:hover{
+cursor: pointer;
+background-color: rgb(247, 243, 243);
+}
+.Button3{
+line-height: 2.3;
+padding: 0 20px;
+font-size: 1rem;
+text-align: center;
+border-radius: 40px;
+margin-left: 40px;  
+width: 300px;  
+border-width: 1px;  
+border-color: lightgray; 
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: 600;
+color: black;
+margin-top: 10px;
+}
+.Button3:hover{
+cursor: pointer;
+background-color: rgb(247, 243, 243);
+}
+.Text1{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: grey;
+}
+.Links1{
+    color: rgb(29, 155, 240);
+    text-decoration: none;
+}
+.Links1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.Links2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.Links2{
+    color:rgb(109, 107, 107);
+    text-decoration: none;
+}
+.Text2{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    margin-top: 25px;
+}
+.MobileBottomText{
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     }
+
+.MobileCopyrightText{
+    margin-left: 120px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(109, 107, 107);
+    align-items: center;
+}
+
